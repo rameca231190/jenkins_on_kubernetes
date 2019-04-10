@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focus-surfer-237100",
+  "private_key_id": "0b2906078a3bc0cbe185b018ccf05c478330fc29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCJbz/1U4F0x0v+\nsj7hXVh69KNWfKgItT8P+87IPruvKhHMi82W8Mnb1S/kVRXXrg0tKMoOlr2OswY9\nGjsqYhfie6ftrKR0tfzwqE6hTmzBDlZd+TG6S6ff+7x9fDEl0R2ZIri0luOVD7zK\nEjT4Cf/TeVWEWH4dra+IOvInK8I10ZK+bYSXctmVnE0LJgpY5j6L5T1Fnd6sOEno\nyoAE7/hNUImeqLnXS4Dt7Tk6BjMiMdQwVHybWyu2lfiCme5Fg7/wqooGJm8hZxPA\nf7PVfAvYJvPyplO1yqsf7+fln2lgspwm0zOWPTxO0PVFzWwlZ82EraJB1IlFM/b4\n5c2PWtfZAgMBAAECggEABPDgFaWtiClgluzpVBCXLV91blbvsxVyCZTx1ZLkzDq4\n1lfZ2bD5LtsynDS/YuhF3r9iSUU71iEjSqfSY/cQGQM9Ua8E4BHJYM0KO6QeRpAJ\nhJoggqw04jlyiLfh6/RBSke8aHiqwKmGzeR67UZtwThx3b7RNOexQXZuDYC2HBlp\n3LZu3yifQ+hEifyyRj+xWmnH+1IWaS8NMdwqG+LPXdYXVgCmdlYlMYBBFqSMh8IU\nLqLIEh5Ki8thft4MjH04xM0qJdIbSijUYvB9dGatsVVq7qnHL0rSVq9X5/RMZMqb\n5hyc8eH4f+Txzkbh5lJT/A608koFX/Gufh8LCMtY8QKBgQDB4trv1dGXaZLOkC0H\nV3AuwoXE/I0dlTPsXbFaSB5HqrkjNJrFK/Upy7zuSGDdTjaU6LTZ6JUCiJ0YNqTN\n6O0NpQ6EeWyo0GvviL5Sykx6CxiGj5mpl9rNnBUTXNdTMna9EIH4v37wWZdAXAbs\nUpNZEUNJJ9cs7sPlajNexo9SKQKBgQC1dqSDY5riJZGS/PNOY8FD/xZUplYlD9mc\nLYXGz2TcM+DtAvU6OOMHdiD2hKbnz4q+VvYPY60VvCcMoJflzqGdf9aJbclJViSF\nCgMnHcc2NIlMal/QbE1fxpM7SaVEK/qhvf6lvYEY3WxDTlcmzQ9knRAjdF2HJpVl\n01ye6HruMQKBgEZ0cEis80/JLm7fl21OidaEG2YcvA7e9BJVbag4AsDaOhKgAAnc\nUmeQwKP6KzDgRhdQhL+Ws+dKy4NMABFPLi1CKIddNG4X5tERaM/e8XF77LqhHh6x\nrvH+YO47U4fJE7rab9B7jd47QCpEBsQDscWw7zl7P8b1MLyCHg63qscZAoGARHDh\nD6Urr4vX4gaBhdld9VVqiLbL2uKlgqAwypFCS0NN3Fa3QyRdjFzjhdb2VIwUmkGW\nQKuphn8Wg062u7g5gHvM4LyFpKFW2M6z7bbvgeRCvI2KYcPXUv5EXaIjMRkdSI+u\nUbitzkEFKkWL3ViOK7aJdbXX6LeGtYcIce7hHqECgYBzyNLEO2TgYlKFODHpBpz8\nN7YKe4vwgjbQwMzzr7fNLrpmLLmh9qoSUks8NaobFntCamAQSqY0fs9B6ayCQApL\njz8hP+cP4KLSZK6bt6jTZc4kMhVohAVajOMeC6+I6An5UodGz73k3jDbOnq9GMe3\n73k7eeCRLy86PxPXZ7uU+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "flask-kube@focus-surfer-237100.iam.gserviceaccount.com",
+  "client_id": "112088160898721862732",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flask-kube%40focus-surfer-237100.iam.gserviceaccount.com"
+}
